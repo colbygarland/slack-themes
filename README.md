@@ -10,3 +10,14 @@ A spot to hold custom slack themes so I don't lose them.
 ```
 #100D23,#1A2B23,#4EE077,#1A1D21,#1A2B23,#00B9E3,#4EE077,#1C913D,#1E1D45,#4EE077
 ```
+
+### Bolknet
+```
+#020623,#020623,#00B993,#FFFFFF,#41465c,#FFFFFF,#52eb7b,#FF2154,#020623,#FFFFFF
+```
+
+### Halloween
+```
+#ff8800,#000000,#ffffff,#000000,#4a5664,#000000,#000000,#736e65,#000000,#000000
+```
+
