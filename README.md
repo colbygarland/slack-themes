@@ -21,3 +21,7 @@ A spot to hold custom slack themes so I don't lose them.
 #ff8800,#000000,#ffffff,#000000,#4a5664,#000000,#000000,#736e65,#000000,#000000
 ```
 
+### Cookies and Cream
+```
+#21252B,#272C33,#FFFFFF,#000000,#272C33,#D7DAE0,#0DE09A,#528BFF,#272C33,#FFFFFF
+```
